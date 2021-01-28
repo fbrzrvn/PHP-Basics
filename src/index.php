@@ -8,7 +8,7 @@
 </head>
 <body>
   <?php
-    echo "<h1>PHP Basic</h1>";
+    phpinfo();
   ?>
 </body>
 </html>
